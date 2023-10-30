@@ -19,7 +19,10 @@ Used Python and unsupervised learning to predict if cryptocurrencies are affecte
 
 ## Analysis
 What is the impact of using fewer features to cluster the data using K-Means?
-The following observations are made for the clusters using reduced features: All clusters are more defined. Clusters 0 and 2 are packed together more tightly. Clusters 1 and 3 are a further distance away from Clusters 0,2 compared with the original data that had more features.
+The following observations are made for the clusters using reduced features: 
+- All clusters are more defined. 
+- Clusters 0 and 2 are packed together more tightly. 
+- Clusters 1 and 3 are a further distance away from Clusters 0,2 compared with the original data that had more features.
 
 
    

@@ -18,7 +18,7 @@ Used Python and unsupervised learning to predict if cryptocurrencies are affecte
 6. Cluster Cryptocurrencies with K-means Using the PCA Data
 
 ## Analysis
-What is the impact of using fewer features to cluster the data using K-Means?
+What is the impact of using fewer features to cluster the data using K-Means?  
 The following observations are made for the clusters using reduced features: 
 - All clusters are more defined. 
 - Clusters 0 and 2 are packed together more tightly. 

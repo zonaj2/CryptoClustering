@@ -7,7 +7,7 @@
 
 
 ## About
-Used Python and unsupervised machine learning to predict cryptocurrency clusters to be used for further analysis.
+Used Python and unsupervised machine learning to categorize and group cryptocurrencies that exhibit similar historical price change patterns.
 
 ## Key Steps
 1. Prepared the data. Used StandardScalar for data normalization.

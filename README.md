@@ -7,7 +7,7 @@
 
 
 ## About
-Used Python and unsupervised machine learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
+Used Python and unsupervised machine learning to predict cryptocurrency clusters to be used for further analysis.
 
 ## Key Steps
 1. Prepared the data. Used StandardScalar for data normalization.
